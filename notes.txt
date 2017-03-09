@@ -1,19 +1,1 @@
 Order of upgrades: main files, then song info, chart fixes, pro strings, keys
-
-First batch of upgrades: "Creep", "Free Fallin'", "Tom Sawyer (original version)",
-maybe other Rush songs
-
-Still to do:
-
-"Creep"
- * fix difficulty tiers for keys / pro keys
- * left-hand animations; separate low notes out of right-hand animations
-"Free Fallin'"
- * fix difficulty tiers for keys / pro keys
-"Tom Sawyer (Original Version)"
- * fix difficulty tiers for keys / pro keys
- * left-hand animations; separate low notes out of right-hand animations
- * ensure vocal tonic is correct
-
-
-triple-check all DTA's!!
