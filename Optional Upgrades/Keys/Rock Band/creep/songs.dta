@@ -100,6 +100,7 @@
 ('song_location' 2)
    (downloaded TRUE)
    (exported TRUE)
+   (song_id 7)
    ; Added RB3 scroll information
 (vocal_tonic_note 8)
 (song_tonality 0)
