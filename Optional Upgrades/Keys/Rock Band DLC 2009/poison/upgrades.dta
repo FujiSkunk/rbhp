@@ -1,0 +1,7 @@
+(poison
+   (upgrade_version 2)
+   (midi_file "songs_upgrades/poison_plus.mid")
+   (song_id 1005560)
+   ;(rbhp_author Espher (Harmonies); TheSheepQueen ((Pro)Keys))
+  ;(rbhp_version 1)
+)
