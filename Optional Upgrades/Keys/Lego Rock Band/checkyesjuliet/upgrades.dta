@@ -1,0 +1,6 @@
+(checkyesjuliet
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/checkyesjuliet_plus.mid")
+   ;(rbhp_author TheSheepQueen ((Pro)Keys))
+   (song_id 755)
+)

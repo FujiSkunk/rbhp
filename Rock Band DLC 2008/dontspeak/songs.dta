@@ -64,6 +64,6 @@
 (year_recorded 2003)
 (extra_authoring disc_update)
 ; Added RB3 scroll information
-(vocal_tonic_note 0)
+(vocal_tonic_note 5)
 (song_tonality 1)
 )
