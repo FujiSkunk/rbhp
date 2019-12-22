@@ -49,7 +49,7 @@
    (version 3)               ; Only modified by coders!
    (fake {== $SONG_VERSION 0})   
    (downloaded TRUE) 
-   (game_origin ugc_plus) ; game origin that the song is from
+   (game_origin rb1_dlc) ; game origin that the song is from
    (song_id 1006057)         ; ALWAYS set this to 0, unless you are Heather   
    (rating 1)           ; 1 = everyone, 2 = teen, 3 = mature, 4 = unrated
    (short_version 109140) ; if set to 0, there is no short version of the song (milliseconds)
