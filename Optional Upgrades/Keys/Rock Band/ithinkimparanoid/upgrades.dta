@@ -1,0 +1,7 @@
+(ithinkimparanoid
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/ithinkimparanoid_plus.mid")
+	(song_id 23)
+	;(rbhp_author espher (Harmonies), TheSheepQueen ((Pro) Keys))
+	;(rbhp_version 1)
+)

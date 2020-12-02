@@ -59,5 +59,8 @@
    (album_track_number 1)   ; OPTIONAL (would require album_name if added). If omitted Set Challenges use difficulty sorting.
    ;(pack_name "^^^Moonwalk (or die...) 3-pack^^^")  ; OPTIONAL
    (base_points 671931)
+; Added RB3 scroll information
+(vocal_tonic_note 11)
+(song_tonality 1)
 )
 

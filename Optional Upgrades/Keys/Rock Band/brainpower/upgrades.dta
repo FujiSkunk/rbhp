@@ -1,0 +1,7 @@
+(brainpower
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/brainpower_plus.mid")
+	(song_id 48)
+	;(rbhp_author espher (Harmonies), TheSheepQueen ((Pro) Keys))
+	;(rbhp_version 1)
+)
