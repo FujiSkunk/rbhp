@@ -1,0 +1,8 @@
+(marchofthepigs
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/marchofthepigs_plus.mid")
+	(song_id 1005055)
+	;(rbhp_author TheSheepQueen ((Pro)Keys))
+	;(rbhp_version 1)
+
+)
