@@ -1,0 +1,7 @@
+(snowheyoh
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/snowheyoh_plus.mid")
+	(song_id 1005160)
+	;(rbhp_harmonies_author TheSheepQueen ((Pro)Keys))
+	;(rbhp_version 2)
+)
