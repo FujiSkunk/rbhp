@@ -2,6 +2,6 @@
 	(upgrade_version 1)
 	(midi_file "songs_upgrades/gowiththeflow_plus.mid")
 	(song_id 18)
-	;(rbhp_harmonies_author espher)
+	;(rbhp_harmonies_author espher(harmonies); FujiSkunk(keys))
 	;(rbhp_version 1)
 )

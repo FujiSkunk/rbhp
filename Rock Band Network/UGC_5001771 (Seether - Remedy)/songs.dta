@@ -93,6 +93,7 @@
    ('tuning_offset_cents' 0.00)
    ('context' 2000)
    ('game_origin' 'rb2')
+   ('ugc' 1)
    (
       'album_name'
       "Karma and Effect"
