@@ -1,0 +1,7 @@
+(getclean
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/getclean_plus.mid")
+	(song_id 328)
+	;(rbhp_harmonies_author Espher (harmonies), FujiSkunk (keys))
+	;(rbhp_version 1)
+)

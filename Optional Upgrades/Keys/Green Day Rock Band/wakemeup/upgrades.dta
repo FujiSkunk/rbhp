@@ -1,0 +1,7 @@
+(wakemeup
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/wakemeup_plus.mid")
+   (song_id 3007)
+   ;(rbhp_author TheSheepQueen (keys))
+   ;(rbhp_version 1)
+)

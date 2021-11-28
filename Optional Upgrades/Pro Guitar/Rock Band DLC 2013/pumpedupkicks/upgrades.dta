@@ -1,0 +1,13 @@
+(pumpedupkicks
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/pumpedupkicks_plus.mid")
+   (song_id 1010478)
+   (rank
+      (real_guitar 228)
+      (real_bass 100)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rbhp_author Ruggy (pro strings))
+   ;(rbhp_version 1)
+)

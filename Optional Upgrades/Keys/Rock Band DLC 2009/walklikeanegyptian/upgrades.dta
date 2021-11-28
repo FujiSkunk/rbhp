@@ -1,0 +1,7 @@
+(walklikeanegyptian
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/walklikeanegyptian_plus.mid")
+	(song_id 1005658)
+	;(rbhp_author FujiSkunk (keys))
+	;(rbhp_version 1)
+)

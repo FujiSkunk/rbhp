@@ -1,0 +1,13 @@
+(shout
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/shout_plus.mid")
+   (song_id 1010378)
+   (rank
+      (real_guitar 236)
+      (real_bass 162)
+   )
+   (real_guitar_tuning (-2 0 0 0 0 0))
+   (real_bass_tuning (-2 0 0 0))
+   ;(rbhp_author Ruggy (pro strings))
+   ;(rbhp_version 1)
+)

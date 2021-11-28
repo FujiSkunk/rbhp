@@ -1,0 +1,13 @@
+(shine
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/shine_plus.mid")
+   (song_id 1010528)
+   (rank
+      (real_guitar 440)
+      (real_bass 1)
+   )
+   (real_guitar_tuning (-2 0 0 0 0 0))
+   (real_bass_tuning (-2 0 0 0))
+   ;(rbhp_author Ruggy (pro strings))
+   ;(rbhp_version 1)
+)

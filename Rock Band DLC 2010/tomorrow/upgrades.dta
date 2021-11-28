@@ -1,0 +1,7 @@
+(tomorrow
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/tomorrow_plus.mid")
+   (song_id 1005620)
+   ;(rbhp_author FujiSkunk)
+   ;(rbhp_version 1)
+)

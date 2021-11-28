@@ -1,0 +1,7 @@
+(floaton
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/floaton_plus.mid")
+	(song_id 274)
+	;(rbhp_harmonies_author Espher (harmonies), TheSheepQueen ((pro) keys))
+	;(rbhp_version 1)
+)

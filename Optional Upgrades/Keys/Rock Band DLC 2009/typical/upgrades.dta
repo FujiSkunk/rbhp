@@ -1,0 +1,7 @@
+(typical
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/typical_plus.mid")
+	(song_id 1005410)
+	;(rbhp_author FujiSkunk (keys))
+	;(rbhp_version 1)
+)

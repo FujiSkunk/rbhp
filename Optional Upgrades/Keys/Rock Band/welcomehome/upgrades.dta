@@ -1,0 +1,7 @@
+(welcomehome
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/welcomehome_plus.mid")
+	(song_id 43)
+	;(rbhp_harmonies_author Espher (harmonies), Linos Melendi (keys))
+	;(rbhp_version 1)
+)

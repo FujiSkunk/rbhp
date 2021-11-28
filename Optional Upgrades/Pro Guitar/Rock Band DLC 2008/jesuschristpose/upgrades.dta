@@ -1,0 +1,13 @@
+(jesuschristpose
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/jesuschristpose_plus.mid")
+   (song_id 1005347)
+   (rank
+      (real_guitar 268)
+      (real_bass 456)
+   )
+   (real_guitar_tuning (-2 0 0 0 0 0))
+   (real_bass_tuning (-2 0 0 0))
+   ;(rbhp_author Espher (harmonies), Ruggy (pro strings))
+   ;(rbhp_version 1)
+)

@@ -1,0 +1,7 @@
+(adamssong
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/adamssong_plus.mid")
+	(song_id 1005872)
+	;(rbhp_author Sorald(keys))
+	;(rbhp_version 1)
+)

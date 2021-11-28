@@ -1,0 +1,6 @@
+(theclairvoyant
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/theclairvoyant_plus.mid")
+	(song_id 1005582)
+	;(rbhp_author FujiSkunk (keys))
+)

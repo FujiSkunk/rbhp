@@ -1,0 +1,7 @@
+(apunk
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/apunk_plus.mid")
+   (song_id 753)
+   ;(rbhp_author FujiSkunk)
+   ;(rbhp_version 1)
+)

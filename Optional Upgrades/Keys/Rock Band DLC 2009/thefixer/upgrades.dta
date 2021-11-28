@@ -1,0 +1,7 @@
+(thefixer
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/thefixer_plus.mid")
+   (song_id 1005663)
+   ;(rbhp_author FujiSkunk (keys))
+   ;(rbhp_version 1)
+)

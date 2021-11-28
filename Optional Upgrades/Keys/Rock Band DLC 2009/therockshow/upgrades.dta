@@ -1,0 +1,7 @@
+(therockshow
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/therockshow_plus.mid")
+	(song_id 1005749)
+	;(rbhp_author Sorald(keys))
+	;(rbhp_version 1)
+)

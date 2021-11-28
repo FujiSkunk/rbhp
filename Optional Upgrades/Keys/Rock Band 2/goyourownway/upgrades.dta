@@ -1,0 +1,7 @@
+(goyourownway
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/goyourownway_plus.mid")
+	(song_id 278)
+	;(rbhp_author Espher (harmonies), TheSheepQueen ((pro) keys))
+	;(rbhp_version 2)
+)

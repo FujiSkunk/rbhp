@@ -1,0 +1,7 @@
+(down
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/down_plus.mid")
+	(song_id 1005743)
+	;(rbhp_author Sorald(keys))
+	;(rbhp_version 1)
+)

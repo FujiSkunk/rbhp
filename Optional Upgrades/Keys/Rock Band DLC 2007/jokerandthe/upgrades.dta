@@ -1,0 +1,7 @@
+(jokerandthe
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/jokerandthe_plus.mid")
+	(song_id 1005003)
+   	;(rbhp_author GreenPanda12 (harmonies), FujiSkunk (keys))
+	;(rbhp_version 1)
+)
