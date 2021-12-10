@@ -23,6 +23,7 @@
 			(seqs (kick.cue snare.cue hat.cue ride.cue crash.cue))
 		)
 		(midi_file "songs/cherubrock/cherubrock.mid")
+		(vocal_parts 3)
 	)
 	(song_scroll_speed 2300)
 	(bank "sfx/tambourine_bank.milo")
