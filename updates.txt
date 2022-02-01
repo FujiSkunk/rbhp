@@ -1,0 +1,31 @@
+These updates aim to fix minor errors in the original RBHP charts, such as words being displayed twice and what should be individual notes being split up into several.
+
+It is recommended that you play these harmonies using scrolling vocals, as there are particularly strange bugs existing in static vocals that for the life of me I cannot figure how to fix at this point in time. The main bugs in question are harmony phrases being vastly spaced out between each other (a notable example of this would be the start of One Way or Another, or Peace Sells), and some lyrics straight up not displaying (a notable example of this would be E-Pro). If you can figure out how to fix these bugs, please let me know, because I would love to fix all the harmonies that contain these bugs.
+
+With that in mind, below are the updates I was able to implement in the release version of RBHP:
+
+UPDATES:
+
+Lego Rock Band:
+-Fire: chorus 2 "let me stand next to your fi-fi" now says "let me stand next to your fire"
+-I Want You Back: fixed instances where "baby" was spaced out between syllables (showed up as "ba by")
+-Life is a Highway: fixed first chorus harmony where the "it" in "I wanna ride it" displayed twice
+-Naive: changed instances of "na_ve" to "naïve"
+-Rooftops: fixed bridge harmony where the "we've" in "all the love that we've found" displayed twice
+-So What: fixed first chorus harmony where the "want" in "and I don't want you" displayed twice
+-Tick Tick Boom: changed the starting "Tv_ tre boom!" to "Två tre boom!"
+
+Rock Band:
+-Cherub Rock: fixed choruses 1 and 4a where "as long as there is some money" had words double displayed
+-Should I Stay or Should I Go: changed "desir" to "decir", fixed post-break sections where words double displayed
+-The Hand That Feeds: "so na_ve" is now "so naïve"
+-Time We Had: the current version of this upgrade crashes your console, this commit fixes this
+-Welcome Home: fixed chorus 2 harmony where the "sion" in "the shores of compassion" was double displayed
+
+Rock Band 2:
+-E-Pro: fixed one HARM1 note after the bridge to the correct octave
+-Float On: fixed multiple instances of words double counting in the phrases "And we'll all float on okay" (all of which occur after the "Win or lose" part)
+-I Was Wrong: fixed instances of the note for "wrong" in the choruses being split into multiple notes
+-Ramblin' Man: fixed an instance of the note "ramblin'" toward the end being split into multiple notes
+-Rock N Me: fixed instances of "me" in "Rockin' me baby" being double counted at the first and last choruses
+-Supreme Girl - fixed every instance of "Preme" or "'Preme" to be more consistent (they all say "'Preme" now)
