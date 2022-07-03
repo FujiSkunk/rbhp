@@ -2,6 +2,12 @@
    	(upgrade_version 1)
    	(midi_file "songs_upgrades/cantstandlosingyou_plus.mid")
    	(song_id 1005012)
-   	;(rbhp_harmonies_author espher (Harmonies); TheSheepQueen ((Pro)Keys))
+        (rank
+           (real_guitar 176)
+           (real_bass 181)
+        )
+        (real_guitar_tuning (0 0 0 0 0 0))
+        (real_bass_tuning (0 0 0 0))
+   	;(rbhp_harmonies_author espher (Harmonies); TheSheepQueen ((Pro)Keys); Shroud (Pro Guitar/Bass))
 	;(rbhp_version 1)
 )

@@ -45,7 +45,7 @@
    (decade the70s)
    (vocal_gender male)
    (vocal_tonic_note 10)
-   (format 6)
+   (format 10)
    (version 3)               ; Only modified by coders!
    (fake {== $SONG_VERSION 0})   
    (downloaded TRUE) 
@@ -61,6 +61,4 @@
    (album_track_number 5)   ; OPTIONAL (would require album_name if added). If omitted Set Challenges use difficulty sorting.
    (pack_name "Creedence Clearwater Revival Pack 01")  ; OPTIONAL
    (base_points 264577)
-    
-    (format 10))
 )

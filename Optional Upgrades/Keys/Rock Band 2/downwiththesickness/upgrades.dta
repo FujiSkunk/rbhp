@@ -1,0 +1,7 @@
+(downwiththesickness
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/downwiththesickness_plus.mid")
+	(song_id 268)
+	;(rbhp_author FujiSkunk (keys))
+	;(rbhp_version 1)
+)

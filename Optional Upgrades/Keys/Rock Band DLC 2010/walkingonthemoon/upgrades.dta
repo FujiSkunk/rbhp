@@ -3,5 +3,5 @@
    (midi_file "songs_upgrades/walkingonthemoon_plus.mid")
    (song_id 1005628)
    ;(rbhp_author farottone (Harmonies), TheSheepQueen ((Pro) Keys))
-  ;(rbhp_version 2)
+   ;(rbhp_version 2)
 )

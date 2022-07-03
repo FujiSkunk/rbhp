@@ -6,7 +6,7 @@
    (context 135)
    (song
      (name        songs/teenagelobotomy/teenagelobotomy)
-     (vocal_parts 2)
+     (vocal_parts 3)
      (tracks          
         ((drum (0 1 2 3)) 
          (bass 4) 

@@ -61,5 +61,5 @@
    (pack_name "Creedence Clearwater Revival Pack 01")  ; OPTIONAL
    (base_points 394419)
    (solo (guitar))
-   (format 10))
+   (format 10)
 )

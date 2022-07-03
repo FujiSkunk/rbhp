@@ -1,0 +1,13 @@
+(messageinabottle
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/messageinabottle_plus.mid")
+   (song_id 1005084)
+   (rank
+      (real_guitar 221)
+      (real_bass 181)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rbhp_author Espher (harmonies); FujiSkunk (keys); Shroud (pro guitar/bass))
+   ;(rbhp_version 1)
+)

@@ -62,5 +62,5 @@
    (pack_name "Creedence Clearwater Revival Pack 01")  ; OPTIONAL
    (base_points 371917)
    (solo (vocal_percussion))
-   (format 10))
+   (format 10)
 )

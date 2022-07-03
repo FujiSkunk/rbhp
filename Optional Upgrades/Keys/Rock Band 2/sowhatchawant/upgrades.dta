@@ -1,0 +1,7 @@
+(sowhatchawant
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/sowhatchawant_plus.mid")
+	(song_id 311)
+	;(rbhp_author espher (Harmonies); TheSheepQueen ((Pro)Keys))
+	;(rbhp_version 2)
+)
