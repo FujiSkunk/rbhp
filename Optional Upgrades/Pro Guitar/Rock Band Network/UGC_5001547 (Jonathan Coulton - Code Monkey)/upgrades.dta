@@ -1,0 +1,14 @@
+; Jonathan Coulton - Code Monkey
+(UGC_5001547
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/UGC_5001547_plus.mid")
+	(song_id 5001547)
+	(rank
+		(real_guitar 208)
+		(real_bass 150)
+	)
+	(real_guitar_tuning (0 0 0 0 0 0))
+	(real_bass_tuning (0 0 0 0))
+	;(rbhp_author Espher (harmonies, pro drums); JohnSmith (pro guitar/bass))
+	;(rbhp_version 1)
+)

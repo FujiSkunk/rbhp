@@ -1,0 +1,7 @@
+(3sand7s
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/3sand7s_plus.mid")
+	(song_id 1005009)
+	;(rbhp_author GreenPanda12 (harmonies); FujiSkunk (keys))
+	;(rbhp_version 2)
+)
