@@ -2,6 +2,6 @@
    (upgrade_version 1)
    (midi_file "songs_upgrades/spaceman_plus.mid")
    (song_id 1005349)
-   ;(rbhp_harmonies_author Espher)
+   ;(rbhp_harmonies_author Espher (harmonies), Linos Melindi (keys))
    ;(rbhp_version 1)
 )

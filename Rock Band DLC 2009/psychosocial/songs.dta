@@ -70,4 +70,7 @@
 (format 10)
 (game_origin rb1_dlc)
 (extra_authoring disc_update)
+; Added RB3 tonic info
+(vocal_tonic_note 7)
+(song_tonality 1)
 )

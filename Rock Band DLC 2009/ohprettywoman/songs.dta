@@ -12,6 +12,7 @@
          (bass 4)
          (guitar (5 6))
          (vocals (7 8))
+         (keys (9 10))
         )
      )
      
@@ -36,6 +37,8 @@
       (guitar 233)
       (bass 140)
       (vocals 130)
+      (keys 153)
+      (real_keys 211)
       (band 170)
    )
    (genre poprock)

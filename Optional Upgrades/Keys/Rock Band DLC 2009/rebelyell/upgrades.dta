@@ -2,4 +2,6 @@
 	(upgrade_version 1)
 	(midi_file "songs_upgrades/rebelyell_plus.mid")
 	(song_id 1005610)
+	;(rbhp_author Linos Melindi (keys))
+	;(rbhp_version 1)
 )
