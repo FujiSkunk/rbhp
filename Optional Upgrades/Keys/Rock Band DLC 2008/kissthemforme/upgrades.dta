@@ -1,0 +1,7 @@
+(kissthemforme
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/kissthemforme_plus.mid")
+	(song_id 1005278)
+        ;(rbhp_author FujiSkunk (keys))
+	;(rbhp_version 1)
+)

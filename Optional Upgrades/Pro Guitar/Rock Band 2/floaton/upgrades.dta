@@ -1,0 +1,13 @@
+(floaton
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/floaton_plus.mid")
+	(song_id 274)
+	(rank
+		(real_guitar 205)
+		(real_bass 1)
+	)
+	(real_guitar_tuning (0 0 0 0 0 0))
+	(real_bass_tuning (0 0 0 0))
+	;(rbhp_harmonies_author Espher (harmonies), TheSheepQueen ((pro) keys), JohnSmith (pro strings))
+	;(rbhp_version 1)
+)

@@ -1,0 +1,7 @@
+(thunder
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/thunder_plus.mid")
+	(song_id 787)
+	;(rbhp_author JohnSmith (keys))
+	;(rbhp_version 1)
+)

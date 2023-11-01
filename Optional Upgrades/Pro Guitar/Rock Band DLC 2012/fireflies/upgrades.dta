@@ -1,0 +1,12 @@
+(fireflies
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/fireflies_plus.mid")
+   (song_id 1010629)
+   (rank
+      (real_guitar 150)
+      (real_bass 150)
+   )
+   (real_guitar_tuning (-1 -1 -1 -1 -1 -1))
+   (real_bass_tuning (-1 -1 -1 -1))
+   ;(rbhp_author JohnSmith (pro strings))
+)

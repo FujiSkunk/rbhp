@@ -1,0 +1,13 @@
+(psychosocial
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/psychosocial_plus.mid")
+   (song_id 1005853)
+   (rank
+      (real_guitar 442)
+      (real_bass 325)
+   )
+   (real_guitar_tuning (-7 -5 -5 -5 -5 -5))
+   (real_bass_tuning (-7 -5 -5 -5))
+   ;(rbhp_author Espher (harmonies), JohnSmith (pro strings))
+   ;(rbhp_version 1)
+)
