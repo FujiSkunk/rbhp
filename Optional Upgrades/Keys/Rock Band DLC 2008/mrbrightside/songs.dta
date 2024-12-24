@@ -10,7 +10,7 @@
          (bass 2)
          (guitar (3 4))
          (vocals (5 6))
-		 (keys (7 8))
+         (keys (7 8))
         )
      )
      ;                 DMS      BS     GUITAR     VOCALS     TRACKS
@@ -35,7 +35,7 @@
       (bass 208)
       (vocals 179)
       (keys 153)
-      (real_keys 153)
+      (real_keys 211)
       (band 247)
    )
    (genre alternative)

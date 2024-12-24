@@ -1,0 +1,13 @@
+(prettyflyforawhiteguy
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/prettyflyforawhiteguy_plus.mid")
+   (song_id 1005255)
+   (rank
+      (real_guitar 323)
+      (real_bass 1)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rbhp_author thomeval (harmonies), JohnSmith (pro guitary/bass))
+   ;(rbhp_version 1)
+)

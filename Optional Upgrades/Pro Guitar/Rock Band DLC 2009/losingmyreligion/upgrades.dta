@@ -1,0 +1,13 @@
+(losingmyreligion
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/losingmyreligion_plus.mid")
+   (song_id 1005451)
+   (rank
+      (real_guitar 150)
+      (real_bass 150)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rbhp_author Espher (harmonies), JohnSmith (pro guitar/bass))
+   ;(rbhp_version 1)
+)

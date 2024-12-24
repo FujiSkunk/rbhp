@@ -1,0 +1,13 @@
+(lobotomy
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/lobotomy_plus.mid")
+   (song_id 3043)
+   (rank
+      (real_guitar 264)
+      (real_bass 150)
+   )
+   (real_guitar_tuning (-1 -1 -1 -1 -1 -1))
+   (real_bass_tuning (-1 -1 -1 -1))
+   ;(rbhp_author JohnSmith (pro guitar/bass))
+   ;(rbhp_version 1)
+)

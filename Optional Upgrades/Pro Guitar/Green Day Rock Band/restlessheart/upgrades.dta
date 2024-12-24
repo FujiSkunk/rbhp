@@ -1,0 +1,13 @@
+(restlessheart
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/restlessheart_plus.mid")
+   (song_id 3013)
+   (rank
+      (real_guitar 205)
+      (real_bass 150)
+   )
+   (real_guitar_tuning (-2 -2 -2 -2 -2 -2))
+   (real_bass_tuning (-2 -2 -2 -2))
+   ;(rbhp_author JohnSmith (pro guitar/bass))
+   ;(rbhp_version 1)
+)

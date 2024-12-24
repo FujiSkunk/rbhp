@@ -1,0 +1,13 @@
+(mrbrightside
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/mrbrightside_plus.mid")
+	(song_id 1005351)
+	(rank
+		(real_guitar 382)
+		(real_bass 267)
+	)
+	(real_guitar_tuning (-1 -1 -1 -1 -1 -1))
+	(real_bass_tuning (-1 -1 -1 -1))
+	;(rbhp_author JohnSmith (pro guitar/bass))
+	;(rbhp_version 1)
+)

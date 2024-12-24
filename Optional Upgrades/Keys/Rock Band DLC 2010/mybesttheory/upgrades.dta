@@ -2,4 +2,6 @@
 	(upgrade_version 1)
 	(midi_file "songs_upgrades/mybesttheory_plus.mid")
 	(song_id 1006205)
+	;(rbhp_author Unknown/FujiSkunk (keys))
+	;(rbhp_version 1)
 )

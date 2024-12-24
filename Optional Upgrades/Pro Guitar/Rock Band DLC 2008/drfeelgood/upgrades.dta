@@ -1,0 +1,13 @@
+(drfeelgood
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/drfeelgood_plus.mid")
+   (song_id 1005266)
+   (rank
+      (real_guitar 382)
+      (real_bass 150)
+   )
+   (real_guitar_tuning (-2 -2 -2 -2 -2 -2))
+   (real_bass_tuning (-2 -2 -2 -2))
+   ;(rbhp_author Espher (harmonies), JohnSmith (pro guitar/bass))
+   ;(rbhp_version 1)
+)

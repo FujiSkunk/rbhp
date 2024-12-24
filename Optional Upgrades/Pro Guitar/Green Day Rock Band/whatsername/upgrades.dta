@@ -1,0 +1,13 @@
+(whatsername
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/whatsername_plus.mid")
+   (song_id 3008)
+   (rank
+      (real_guitar 208)
+      (real_bass 208)
+   )
+   (real_guitar_tuning (-2 0 0 0 0 0))
+   (real_bass_tuning (-2 0 0 0))
+   ;(rbhp_author JohnSmith (pro guitar/bass))
+   ;(rbhp_version 1)
+)

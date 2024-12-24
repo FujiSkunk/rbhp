@@ -1,0 +1,13 @@
+(grace
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/grace_plus.mid")
+   (song_id 764)
+   (rank
+      ('real_guitar' 267)
+      ('real_bass' 208)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (-2 0 0 0))
+   ;(rbhp_author Espher (harmonies), JohnSmith (keys, pro guitar/bass))
+   ;(rbhp_version 1)
+)

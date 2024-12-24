@@ -1,0 +1,7 @@
+(woman
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/woman_plus.mid")
+   (song_id 1005809)
+   ;(rbhp_author FujiSkunk (keys))
+   ;(rbhp_version 1)
+)

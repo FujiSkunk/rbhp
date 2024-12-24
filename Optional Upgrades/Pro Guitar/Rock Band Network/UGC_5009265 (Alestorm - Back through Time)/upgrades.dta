@@ -1,0 +1,14 @@
+; Alestorm - Back through Time
+(UGC_5009265
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/UGC_5009265_plus.mid")
+	(song_id 5009265)
+	(rank
+		(real_guitar 384)
+		(real_bass 384)
+	)
+	(real_guitar_tuning (-4 -4 -4 -4 -4 -4))
+	(real_bass_tuning (-4 -4 -4 -4))
+	;(rbhp_author JohnSmith)
+	;(rbhp_version 1)
+)

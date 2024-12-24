@@ -1,0 +1,13 @@
+(littlegirl
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/littlegirl_plus.mid")
+   (song_id 3012)
+   (rank
+      (real_guitar 264)
+      (real_bass 150)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rbhp_author JohnSmith (pro guitar/bass), FujiSkunk (keys))
+   ;(rbhp_version 1)
+)

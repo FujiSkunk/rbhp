@@ -1,0 +1,14 @@
+; Alestorm - Shipwrecked
+(UGC_5008781
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/UGC_5008781_plus.mid")
+	(song_id 5008781)
+	(rank
+		(real_guitar 382)
+		(real_bass 267)
+	)
+	(real_guitar_tuning (-4 -4 -4 -4 -4 -4))
+	(real_bass_tuning (-4 -4 -4 -4))
+	;(rbhp_author JohnSmith)
+	;(rbhp_version 1)
+)

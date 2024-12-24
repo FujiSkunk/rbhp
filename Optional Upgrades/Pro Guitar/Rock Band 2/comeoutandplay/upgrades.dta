@@ -1,0 +1,13 @@
+(comeoutandplay
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/comeoutandplay_plus.mid")
+	(song_id 265)
+	(rank
+		(real_guitar 382)
+		(real_bass 150)
+	)
+	(real_guitar_tuning (0 0 0 0 0 0))
+	(real_bass_tuning (0 0 0 0))
+	;(rbhp_harmonies_author Espher (harmonies), JohnSmith (pro guitar/bass))
+	;(rbhp_version 1)
+)

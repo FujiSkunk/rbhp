@@ -9,4 +9,5 @@
    (real_guitar_tuning (0 0 0 0 0 0))
    (real_bass_tuning (0 0 0 0))
    ;(rbhp_author Espher (harmonies), TheSheepQueen ((pro) keys), Ruggy (pro strings))
+   ;(rbhp_version 1)
 )

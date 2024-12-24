@@ -1,0 +1,13 @@
+(jesusofsuburbia
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/jesusofsuburbia_plus.mid")
+   (song_id 3018)
+   (rank
+      (real_guitar 382)
+      (real_bass 267)
+   )
+   (real_guitar_tuning (-1 -1 -1 -1 -1 -1))
+   (real_bass_tuning (0 0 0 0))
+   ;(rbhp_author JohnSmith (pro guitar/bass))
+   ;(rbhp_version 1)
+)

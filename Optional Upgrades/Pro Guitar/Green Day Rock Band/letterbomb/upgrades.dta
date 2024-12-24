@@ -1,0 +1,13 @@
+(letterbomb
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/letterbomb_plus.mid")
+   (song_id 3006)
+   (rank
+      (real_guitar 382)
+      (real_bass 267)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rbhp_author JohnSmith (pro guitar/bass))
+   ;(rbhp_version 1)
+)
