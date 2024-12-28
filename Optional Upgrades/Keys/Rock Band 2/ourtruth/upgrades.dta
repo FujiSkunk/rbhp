@@ -1,0 +1,7 @@
+(ourtruth
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/ourtruth_plus.mid")
+	(song_id 295)
+	;(rbhp_author Espher (harmonies), FujiSkunk (keys))
+	;(rbhp_version 1)
+)
