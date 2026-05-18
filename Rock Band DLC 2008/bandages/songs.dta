@@ -62,7 +62,7 @@
 (game_origin rb1_dlc)
 (rating 2)
 ; Added RB3 scroll information
-(vocal_tonic_note 8)
+(vocal_tonic_note 9)
 (song_tonality 1)
 )
 

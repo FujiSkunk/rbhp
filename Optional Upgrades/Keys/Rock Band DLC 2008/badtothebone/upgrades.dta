@@ -1,0 +1,7 @@
+(badtothebone
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/badtothebone_plus.mid")
+   (song_id 1005252)
+   ;(rbhp_author FujiSkunk)
+   ;(rbhp_version 1)
+)

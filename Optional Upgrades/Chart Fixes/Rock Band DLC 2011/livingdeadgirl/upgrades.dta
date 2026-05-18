@@ -1,0 +1,7 @@
+(livingdeadgirl
+	(upgrade_version 1)
+	(midi_file "songs_upgrades/livingdeadgirl_plus.mid")
+	(song_id 1010420)
+	;(rbhp_author JohnSmith (chart fixes))
+	;(rbhp_version 1)
+)
