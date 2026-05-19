@@ -109,4 +109,6 @@
       "Homesick"
    )
    ('album_track_number' 6)
+   (vocal_tonic_note 0)
+   (song_tonality 0)
 )

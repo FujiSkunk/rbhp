@@ -109,4 +109,6 @@
       "Lullaby"
    )
    ('album_track_number' 2)
+   (vocal_tonic_note 4)
+   (song_tonality 0)
 )

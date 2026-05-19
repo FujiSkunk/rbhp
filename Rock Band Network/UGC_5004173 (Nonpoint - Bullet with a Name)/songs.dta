@@ -110,4 +110,6 @@
       "To the Pain"
    )
    ('album_track_number' 1)
+   (vocal_tonic_note 10)
+   (song_tonality 1)
 )
